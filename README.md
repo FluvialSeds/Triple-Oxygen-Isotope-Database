@@ -18,7 +18,7 @@ A compiled and curated compilation of experimental, atmospheric, and geologic tr
 
 When using this compiled dataset for a publication, please cite as:
 
-J.D. Hemingway and M. Claire.  A companion database of mass-independent oxygen isotope fractionation effects, 2024-, https://github.com/FluvialSeds/Triple-Oxygen-Isotope-Database, doi:10.5281/zenodo.10634284 [online; accessed *date*]
+J.D. Hemingway.  A companion database of mass-independent oxygen isotope fractionation effects, 2024-, https://github.com/FluvialSeds/Triple-Oxygen-Isotope-Database, doi:10.5281/zenodo.10634284 [online; accessed *date*]
 
 as well as the Treatise on Geochemistry chapter:
 
