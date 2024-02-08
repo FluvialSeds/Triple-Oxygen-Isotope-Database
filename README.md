@@ -4,11 +4,10 @@ A compiled and curated compilation of experimental, atmospheric, and geologic tr
 
 ## Information
 
-| ------ | ------- |
-| Authors: | Jordon D. Hemingway (jordon.hemingway@erdw.ethz.ch), Mark Claire (mark@bmsis.org) |
-| Initial release: | 08 February 2024 |
-| License: | Creative Commons Zero v1.0 Universal |
-| url: | (zenodo doi to be added after release) |
+**Authors:** Jordon D. Hemingway (jordon.hemingway@erdw.ethz.ch), Mark Claire (mark@bmsis.org) 
+**Initial release:** 08 February 2024
+**License:** Creative Commons Zero v1.0 Universal
+**url:** (zenodo doi to be added after release)
 
 ## How to cite
 
