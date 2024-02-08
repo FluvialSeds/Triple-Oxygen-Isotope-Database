@@ -10,13 +10,15 @@ A compiled and curated compilation of experimental, atmospheric, and geologic tr
 
 **License:** Creative Commons Zero v1.0 Universal
 
-**url:** (zenodo doi to be added after release)
+**url:** https://zenodo.org/doi/10.5281/zenodo.10634284
+
+**doi:** [![DOI](https://zenodo.org/badge/754514085.svg)](https://zenodo.org/doi/10.5281/zenodo.10634284)
 
 ## How to cite
 
 When using this compiled dataset for a publication, please cite as:
 
-J.D. Hemingway and M. Claire.  A companion database of mass-independent oxygen isotope fractionation effects, 2024-, https://github.com/FluvialSeds/Triple-Oxygen-Isotope-Database, doi:(zenodo doi to be added after release) [online; accessed *date*]
+J.D. Hemingway and M. Claire.  A companion database of mass-independent oxygen isotope fractionation effects, 2024-, https://github.com/FluvialSeds/Triple-Oxygen-Isotope-Database, doi:10.5281/zenodo.10634284 [online; accessed *date*]
 
 as well as the Treatise on Geochemistry chapter:
 
