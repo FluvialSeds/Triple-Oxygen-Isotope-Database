@@ -42,3 +42,4 @@ This database comprises the following four tables:
 
 (see Treatise on Geochemistry text for complete reference citations).
 
+This repository additionally contains `analysis_code.py`, which was used to analyze data and generate all oxygen-isotope based figures in the Treatise on Geochemistry chapter.
