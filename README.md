@@ -2,6 +2,29 @@
 
 A compiled and curated compilation of experimental, atmospheric, and geologic triple-oxygen isotope compositions, including an inter-laboratory comparison of standard results. This database was generated for the 2024 Treatise on Geochemistry chapter "Mass independent fractionation processes in the atmosphere" by Jordon Hemingway and Mark Claire, and it was used for the figures and analysis within. 
 
+## Information
+
+| Authors: | Jordon D. Hemingway (jordon.hemingway@erdw.ethz.ch), Mark Claire (mark@bmsis.org) |
+| Initial release: | 08 February 2024 |
+| License: | Creative Commons Zero v1.0 Universal |
+| url: | (zenodo doi to be added after release) |
+
+## How to cite
+
+When using this compiled dataset for a publication, please cite as:
+
+J.D. Hemingway and M. Claire.  A companion database of mass-independent oxygen isotope fractionation effects, 2024-, https://github.com/FluvialSeds/Triple-Oxygen-Isotope-Database, doi:(zenodo doi to be added after release) [online; accessed *date*]
+
+as well as the Treatise on Geochemistry chapter:
+
+J.D. Hemingway and M. Claire. Mass independent fractionation processes in the atmosphere, 2024, Treatise on Geochemistry, 3^rd^ edition.
+
+In addition, please cite the original manuscripts where appropriate.
+
+## Adding data
+
+This database is actively maintained. If you have published triple-oxygen isotope results that you would like added, please contact me directly at: jordon.hemingway@erdw.ethz.ch
+
 ## Contents
 
 This database comprises the following four tables:
